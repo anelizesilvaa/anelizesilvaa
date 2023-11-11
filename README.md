@@ -8,6 +8,6 @@
 - 📫 How to reach me: anelizesgoncalves@gmail.com
 - 😄 Pronouns: ela/dela
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anelizesilvaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anelize Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=anelizesilvaa)](https://github.com/anuraghazra/github-readme-stats)
 
 
